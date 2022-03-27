@@ -1,0 +1,20 @@
+{
+  "name": "public",
+  "authors": [
+    "Hrishikesh Salway <salway.hrishikesh@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
